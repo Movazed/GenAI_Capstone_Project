@@ -23,12 +23,7 @@ __pycache__/
 *.sqlite3
 data/telecom_ops.db
 
-# =========================
-# Temporary Project Files
-# =========================
-db_temp.py
-Pinger_temp.py
-init_db.py
+
 
 # =========================
 # OS Generated Files
