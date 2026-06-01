@@ -1,0 +1,37 @@
+# =========================
+# Python & Environments
+# =========================
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Secrets & API Keys
+# =========================
+.env
+
+# =========================
+# Databases
+# =========================
+# We ignore the database because users should generate it themselves 
+# using your sql/ folder and build scripts.
+*.db
+*.sqlite
+*.sqlite3
+data/telecom_ops.db
+
+# =========================
+# Temporary Project Files
+# =========================
+db_temp.py
+Pinger_temp.py
+init_db.py
+
+# =========================
+# OS Generated Files
+# =========================
+.DS_Store
+Thumbs.db
